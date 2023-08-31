@@ -1,0 +1,13 @@
+einops==0.4.1
+lifelines==0.27.0
+monai==0.8.1
+nibabel==3.2.2
+numpy==1.21.0
+pandas
+pytorch_lightning==1.6.0
+scikit_image==0.19.2
+scikit_learn==0.24.2
+scikit_survival==0.15.0
+scipy==1.8.0
+torch==1.11.0
+torchmetrics==0.8.2
